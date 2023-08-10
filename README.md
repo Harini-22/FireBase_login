@@ -21,6 +21,8 @@ See the section about [running tests]for more information.
 
 ![image](https://github.com/Harini-22/FireBase_login/assets/102860861/28dc8443-7247-4ac9-8138-3485fd365834)
 
-![image](https://github.com/Harini-22/FireBase_login/assets/102860861/baf5c78f-6298-49c0-8ed1-f353561c0f67)
+![image](https://github.com/Harini-22/FireBase_login/assets/102860861/6f8f12fb-ba8f-4e25-8c60-395b88fbfff0)
 
-![image](https://github.com/Harini-22/FireBase_login/assets/102860861/a1206cb3-81de-4652-bc80-43eb9df08d73)
+![image](https://github.com/Harini-22/FireBase_login/assets/102860861/de3264cf-8f77-4ce3-842b-88f75611d693)
+
+![image](https://github.com/Harini-22/FireBase_login/assets/102860861/e1d6f91c-b08e-43e6-a6c3-133a74c36d84)
